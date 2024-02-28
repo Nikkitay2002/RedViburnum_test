@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchCenter/Blueprint/BP_Light_2.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Blueprint/BP_Light_3.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/MI_Monitor_Screen_2_Bad.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/MI_Monitor_Screen_4_Bad.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Materials/MasterMaterial/M_Ceiling_Light_1.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/M_Control_Panel_1.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchCenter/Blueprint/BP_Light_5.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/GreyBoxMAP.umap",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchCenter/Materials/M_Steel_3.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchCenter/Blueprint/BP_Light_1.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchCenter/Blueprint/BP_Light_8.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/SecretBase/Blueprint/Bp_Light_2.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/Flicker2.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Blueprint/BP_Light_3_Flickering.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Materials/MasterMaterial/M_Ceiling_Light_1_flicker.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Map/ResearchFacility.umap",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/M_Board_1.uasset",
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/GreyBoxMAP.umap",
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/ResearchMegaPack/SecretBase/Map/SecretBase.umap",
@@ -57,7 +74,8 @@
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/NewLevelSequence.uasset",
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_11.uasset",
 				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Blueprint/BP_Light_3.uasset",
-				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Materials/MaterialInstance/MI_Concrete_Floor_4.uasset"
+				"C:/Users/user/Documents/Test_Game_Ball/RedViburnum_test/Content/ResearchMegaPack/ResearchUnderground/Materials/MaterialInstance/MI_Concrete_Floor_4.uasset",
+				"C:/ProgsAndGames/RV_techquest/RedViburnum_test/RedViburnum_test/Content/ResearchMegaPack/ResearchFacility/Materials/MI_Monitor_Screen_7_Bad.uasset"
 			]
 		}
 	]
